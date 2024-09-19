@@ -63,7 +63,7 @@ namespace MyDictionary
             return keys;
         }
 
-        // values dizisini dönen bir metot
+        
         public T2[] GetValues()
         {
             return values;
